@@ -1,0 +1,16 @@
+# Loan Data Inspection 📊
+
+This notebook provides the first step in analyzing LendingClub loan data. It includes:
+- Loading the raw `loan.csv` dataset
+- Basic exploration like data shape and type inspection
+- Initial steps for handling large datasets
+
+## Getting Started
+Place the `loan.csv` file in the same directory and run the notebook.
+
+## Libraries Used
+- pandas
+- numpy
+
+## Objective
+To understand the structure and size of the raw dataset and prepare it for further analysis.
